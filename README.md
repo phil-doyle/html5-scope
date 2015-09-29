@@ -1,2 +1,2 @@
 # html5-scope
-This is an web app for USB based endoscopes and microscopes
+html5-scope is an web app for USB based endoscopes and microscopes. This initial version is intended for use with the popular and affordable Andonstar USB microscope but can work with any video source.
